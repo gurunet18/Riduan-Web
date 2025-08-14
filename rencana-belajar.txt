@@ -1,0 +1,6 @@
+Rencana Belajar:
+
+- TOEFL
+- Machine Learning
+- CodeIgniter
+- PHP
