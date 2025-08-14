@@ -1,6 +1,6 @@
 Riduan Web
 - Konsisten belajar web programing setiap hari
 - membuat beberapa projek untuk menerapkan ilmu belajar
-- mengulang pelajaran
 - membuat aplikasi Cuti
 - Membuat aplikasi KS
+- membuat portal guru
